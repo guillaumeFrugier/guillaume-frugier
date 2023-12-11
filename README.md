@@ -18,9 +18,7 @@ and **low level language**.
 
 ### technical skill
 #### web skills
-***html***  
-![Static Badge](css)
-
+***html***
 ***css***  
 ***javascript***  
 ***php***  
