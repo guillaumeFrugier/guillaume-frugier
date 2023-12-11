@@ -6,9 +6,9 @@ i'm studying **cryptology**, and **oriented object language**, but i'm also good
 and **low level language**.
 
 ## soft skills
-**calm**   - **autodidact** 
+***calm***   - ***autodidact*** 
 
-**patient**  
+***patient***  
 
 
 
