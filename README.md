@@ -13,14 +13,14 @@ and **low level language**.
 ***creativ***
 
 ### language
-***english***
-***spanish***
+***english***  
+***spanish***  
 
 ### technical skill
 #### web skills
-**html**
-**css**
-**javascript**
-**php**
+**html**  
+**css**  
+**javascript**  
+**php**  
 
 
