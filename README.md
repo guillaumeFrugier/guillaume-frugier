@@ -8,6 +8,7 @@ and **low level language**.
 ## soft skills
 ***calm***   
 ***autodidact*** 
+
 ***patient***  
 
 
