@@ -18,9 +18,9 @@ and **low level language**.
 
 ### technical skill
 #### web skills
-**html**  
-**css**  
-**javascript**  
-**php**  
+***html***  
+***css***  
+***javascript***  
+***php***  
 
 
