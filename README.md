@@ -19,7 +19,7 @@ and **low level language**.
 ### technical skill
 #### web skills
 ***html***  
-![Static Badge](css.png)
+![Static Badge](css)
 
 ***css***  
 ***javascript***  
