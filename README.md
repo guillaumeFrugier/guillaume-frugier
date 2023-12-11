@@ -16,6 +16,13 @@ and **low level language**.
 ***english***
 ***spanish***
 
+### technical skill
+#### web skills
+**html**
+**css**
+**javascript**
+**php**
+
 
 
 
