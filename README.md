@@ -24,7 +24,3 @@ and **low level language**.
 **php**
 
 
-
-
-
-
