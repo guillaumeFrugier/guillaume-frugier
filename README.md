@@ -18,7 +18,8 @@ and **low level language**.
 
 ### technical skill
 #### web skills
-***html***
+<img src="badge.png">  
+***html***  
 ***css***  
 ***javascript***  
 ***php***  
