@@ -26,7 +26,11 @@ and **low level language**.
 
 
 ## realisation
-application android de commande de pizzaiolo
+android app
+
+
+
 ![pizza android](il_ponto_pizza.PNG)
+
 
 
