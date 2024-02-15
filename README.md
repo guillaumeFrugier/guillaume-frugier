@@ -26,6 +26,6 @@ and **low level language**.
 
 
 ## realisation
-![](il
+![pizza android](il_ponto_pizza.PNG)
 
 
