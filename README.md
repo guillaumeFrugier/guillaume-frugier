@@ -10,7 +10,7 @@ and **low level language**.
 ***calm***   
 ***autodidact*** 
 ***patient***  
-***creativ***
+***creative***
 
 ### language
 ***english***  
