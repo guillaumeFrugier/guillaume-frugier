@@ -1,8 +1,8 @@
 # Guillaume Frugier GITHUB
 
 ## who am i ?
-Hi my name is **Guillaume Frugier**, i'm a student in 2nd year in the **IUT of Limoges**.
-i'm studying **cryptology**, and **oriented object language**, but i'm also good in **web oriented language**, 
+Hi my name is **Guillaume Frugier**, i'm a student in the **IUT of Limoges**, where it's my 3rd year.
+i'm studying **networking**, and **oriented object language**, but i'm also good in **web oriented language**, 
 and **low level language**.
 
 ## skills
@@ -24,13 +24,18 @@ and **low level language**.
 ***javascript***  
 ***php***  
 
+#### mobile app skills
+***Kotlin (Jetpack compose)***
+***c# (avaloniaUI)***
+
 
 ## realisation
-android app
+web application during an internship in the society UNOVA
 
 
 
-![pizza android](il_ponto_pizza.PNG)
+
+
 
 
 
