@@ -25,7 +25,8 @@ and **low level language**.
 ***php***  
 
 #### mobile app skills
-***Kotlin (Jetpack compose)***\n
+***Kotlin (Jetpack compose)***
+
 ***c# (avaloniaUI)***
 
 
